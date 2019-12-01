@@ -11,3 +11,9 @@
 9. Lalu Program akan mengoutputkan semua data yang telah di olah. 
 10. Program selesai
 Flowchart latihan4
+
+![flowcat](https://user-images.githubusercontent.com/57052780/69908980-0ac1b080-1426-11ea-95d6-29640c004869.png)
+
+# Hasil Coding Tugas 4
+
+![Latihan4Run](https://user-images.githubusercontent.com/57052780/69909006-71df6500-1426-11ea-889a-0c21a62b1a89.png)
